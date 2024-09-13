@@ -9,14 +9,33 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@editorjs/checklist": "^1.6.0",
+    "@editorjs/editorjs": "^2.30.5",
+    "@editorjs/embed": "^2.7.4",
+    "@editorjs/header": "^2.8.7",
+    "@editorjs/image": "^2.9.3",
+    "@editorjs/list": "^1.10.0",
+    "@editorjs/paragraph": "^2.11.6",
+    "@editorjs/quote": "^2.6.0",
+    "@editorjs/raw": "^2.5.0",
+    "@headlessui/react": "^2.1.2",
+    "@heroicons/react": "^2.1.5",
+    "@heroicons/vue": "^2.1.5",
+    "axios": "^1.7.3",
+    "editorjs-html": "^3.4.3",
+    "heroicons": "^2.1.5",
+    "jsonwebtoken": "^9.0.2",
+    "next": "^14.2.5",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.5"
+    "validator": "^13.12.0"
   },
   "devDependencies": {
-    "postcss": "^8",
-    "tailwindcss": "^3.4.1",
+    "autoprefixer": "^10.4.20",
+    "editorjs-undo": "^2.0.28",
     "eslint": "^8",
-    "eslint-config-next": "14.2.5"
+    "eslint-config-next": "14.2.5",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.7"
   }
 }

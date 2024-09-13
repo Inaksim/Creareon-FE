@@ -1,0 +1,15 @@
+/* hero cover */
+
+position: absolute;
+left: 0px;
+right: 0px;
+top: 0px;
+bottom: 0px;
+
+background: linear-gradient(0deg, rgba(1, 1, 1, 0.5), rgba(1, 1, 1, 0.5)), url(tranmautritam_3D_fox_looking_at_the_horizon_over_a_futuristic_l_0f4807c7-1a75-42ff-acd1-a25001eefdf8.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+z-index: 0;
